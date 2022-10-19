@@ -1,0 +1,168 @@
+
+.nav-list{
+
+    display: flex;
+    gap: 2rem;
+    list-style: none;
+    align-items: center;
+    cursor: pointer;
+    box-sizing: border-box;
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.1);
+
+}
+.nav-list li a{
+  text-decoration:none;
+ 
+}
+.rightNav{
+    
+   display: flex;
+    gap: 2rem;
+    list-style: none;
+    align-items: center;
+    cursor: pointer;
+    margin-top: 40px; 
+    padding: 20px;
+    border: 1px solid;
+    flex-direction: row;
+    margin-bottom: 100%;
+
+}
+.Valider{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 22px;
+    gap: 5px;
+    width: 87px;
+    height: 30px;
+    font-family: 'Poppins';
+    background: #460AF0;
+    border: 1px solid rgba(0, 0, 0, 0.15);
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: rgba(18, 18, 18, 0.3);
+    flex: none;
+    order: 0;
+     flex-grow: 0; 
+}
+.gmap_canvas{
+display: flex;
+position: absolute;
+width: 650px;
+height: 598px;
+left: 1px;
+top: 26%;
+
+}
+.lowsection{
+ margin-right:40%;
+ display: flex; 
+ margin-top: 5%;
+flex: none;
+order: 1;
+} 
+.lowsection ,img1{
+  width: 4px;
+  padding-right: 90%;
+  height: 281px;
+}
+.lowsection,imgs{
+  width: 4px;
+  height: 281px;
+  margin-top: 80%;
+}
+
+.text2{
+  display: flex;
+  top: 90%;
+}
+.btn3{
+width: 6px;
+height: 2px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 21px;
+align-items: center;
+text-align: center;
+color: #000000;
+flex: none;
+order: 0;
+flex-grow: 0;
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px 10px 10px 3px;
+gap: 10px;
+width: 291px;
+height: 23px;
+background: #FFFFFF;
+flex: none;
+order: 1;
+}
+.button2{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 6px 37px;
+gap: 10px;
+width: 200px;
+height: 34px;
+background: #00B4FF;
+border-radius: 24px;
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+
+.mapouter{
+  display: flex;
+ } 
+.images{
+  display: flex;
+  width: 90%;
+  margin-right:40%;
+  width: 4px;
+  height: 21px;
+  margin-top: 40%;
+  flex: none;
+ order: 1; 
+
+}
+.section{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  position: absolute;
+  left: 39%;
+  top: 15px;
+  margin: 10%;
+  
+  
+}
+.upsection{
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 30%;
+  position: absolute;
+  margin-right: 40%;
+  background-position-x: left;
+  margin-bottom: 40px;
+  
+
+}
+
+
+
