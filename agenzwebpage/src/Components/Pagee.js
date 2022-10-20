@@ -13,7 +13,6 @@ function Pagee() {
 			<nav class="navbar background">
 				<ul class="nav-list">
 					<div class="logo">
-				{/* <img src={logo} alt = 'logo'/> */}
 		</div>
 				</ul> 
 
@@ -49,8 +48,6 @@ function Pagee() {
 					<button class="Valider">
 					<i class="fa fa-search" aria-hidden="true"></i>Valider</button>
 					</div>
-
-
 				</div>
 			</nav>
 			<div class="mapouter">
